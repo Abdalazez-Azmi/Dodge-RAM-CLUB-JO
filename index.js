@@ -54,8 +54,7 @@ $(sec).click(function(e){
  if (res === "EN") {
    des.textContent="Dodge Ram 2009 owned by Abdalazez, the mechanics were completely done and the following things were modified: long arm mirrors, backfire programming, fiber leather trunk lid, 6-inch lift, projector lights, shock absorbers measuring 37, 12.5, 17, 5-bolt rim, flagpole, flagpole rings"
  }else{
-   des.textContent=" بكم دودج رام 2009 لمالكه عبد العزيز تم عمل ميكانيك بالكامل وتم تعديل الأمور التالية : مرايا ذراع طويل , برمجة الباك فاير , إضافة غطاء السباق , هوك سحب خلفي , غطاء صندوق فايبر جلد , ترفيع 6 انش , اضوية بروجيكتور , كوشوك قياس 37,12.5,17 ,جنط ميثور 5 براغي , سارية علم , حلقات سارية العلم "
-
+   des.textContent=" بكم دودج رام 2009 لمالكه عبد العزيز تم عمل ميكانيك بالكامل وتم تعديل الأمور التالية : مرايا ذراع طويل , برمجة الباك فاير , إضافة غطاء السباق , هوك سحب خلفي , غطاء صندوق فايبر جلد , ترفيع 6 انش , اضوية بروجيكتور , كوشوك قياس 37,12.5,17 جنط ميثور 5 براغي , سارية علم , حلقات السحب "
  }
 
 
